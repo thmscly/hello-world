@@ -1,2 +1,3 @@
 # hello-world
 This is a preliminary, introductory project as introduced by the infamous GitHub.
+I'm more or less new to programming, and am really excited about learning, coding, and potentially throwing my laptop across the room out of bottomless rage-spair (that's "rage" + "despair." It's quite lovely this time of year). I do photography, am a (un-terrible/un-mind-blowing) multi-instrumentalist, I love movies, and I have a B.S. in Psychology. Emphasis on the "B.S." I've done lots of work in the non-profit and recreation sectors, and am looking for something with a little more room for growth, creativity, and career options. So, here I am.
